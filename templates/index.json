@@ -1,0 +1,42 @@
+{
+  "sections": {
+    "1626206319c0348ac5": {
+      "type": "rich-text",
+      "blocks": {
+        "1626206319c0348ac5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "This is Tony's testing shop",
+            "heading_size": "medium"
+          }
+        },
+        "1626206319c0348ac5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This is a store created to test, teach, and demo the variety of things you can do in Shopify.<\/p><p>A lot of problems can be solved with HTML, CSS, and apps,<br\/>but anything is possible with Javascript, Liquid, and Shopify Plus.<\/p>"
+          }
+        },
+        "1626206319c0348ac5-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "See all products",
+            "button_link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1626206319c0348ac5-0",
+        "1626206319c0348ac5-1",
+        "1626206319c0348ac5-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    }
+  },
+  "order": [
+    "1626206319c0348ac5"
+  ]
+}
